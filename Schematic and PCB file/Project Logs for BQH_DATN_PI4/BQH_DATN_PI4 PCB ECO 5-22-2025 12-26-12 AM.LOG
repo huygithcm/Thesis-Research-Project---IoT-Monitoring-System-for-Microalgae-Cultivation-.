@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=F3 Pin=R26-1
+Removed Pin From Net: NetName=F1 Pin=R29-1
+Removed Pin From Net: NetName=F2 Pin=R37-1
+Removed Pin From Net: NetName=F4 Pin=R38-1
+Added Pin To Net: NetName=F2 Pin=R26-1
+Added Pin To Net: NetName=F3 Pin=R29-1
+Added Pin To Net: NetName=F4 Pin=R37-1
+Added Pin To Net: NetName=F1 Pin=R38-1
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component J8 KF2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component J9 KF2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component LED6 LED
+Added Room: Name=BQH_DATN_PI4

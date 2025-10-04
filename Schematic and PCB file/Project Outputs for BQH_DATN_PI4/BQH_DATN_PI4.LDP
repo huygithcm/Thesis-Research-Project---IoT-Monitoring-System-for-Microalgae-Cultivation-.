@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\BQH_DATN_PI4\BQH_DATN_PI4.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bqh_datn_pi4-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=bqh_datn_pi4-squareholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=bqh_datn_pi4-slotholes.txt|DrillLayers=gtl,gbl

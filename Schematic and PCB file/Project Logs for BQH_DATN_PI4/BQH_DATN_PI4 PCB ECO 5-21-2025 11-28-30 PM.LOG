@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=Cx6 Old Footprint=CN-SMD-0603 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=R13 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R18 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J10
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED7
+Added Component: Designator=LED6(LED SMD 0603 RED.CAOVANHUONG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED SMD 0603 RED.CAOVANHUONG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED8-2
+Added Pin To Net: NetName=IO19 Pin=R46-2
+Added Pin To Net: NetName=CLK Pin=R47-2
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED7_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R46-1
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R47-1
+Added Net: Name=NetLED8_1
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component LED7 LED
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component LED8 LED
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R46 4K7
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R47 4K7
+Added Room: Name=BQH_DATN_PI4

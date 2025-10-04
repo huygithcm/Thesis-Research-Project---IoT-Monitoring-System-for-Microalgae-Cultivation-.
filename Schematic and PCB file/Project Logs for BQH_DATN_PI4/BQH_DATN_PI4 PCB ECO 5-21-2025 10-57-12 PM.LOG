@@ -1,0 +1,32 @@
+Added Component: Designator=J10(KF2-7.62)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=VIN Pin=J10-2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component Cx5 100NF,0603
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component D1 SMAJ33CA
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component D2 SMAJ33CA
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component D3 SMAJ33CA
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component D4 15V
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component F1 MF-MSMF020/60-2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component F2 MF-MSMF020/60-2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component J10 KF2
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component LED1 LED
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component LED3 LED
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R1 2K4
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R2 4.7K
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R12 4.7K
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R13 4.7K
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R17 2K4
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component R18 56K
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component U1 74014
+Added Member To Class: ClassName=BQH_DATN_PI4 Member=Component U4 MAX3485ESA+
+Added Room: Name=BQH_DATN_PI4
