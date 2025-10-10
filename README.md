@@ -21,7 +21,6 @@ This project is an IoT-based monitoring system designed for microalgae cultivati
 
 - Arduino IDE (for ESP32 firmware)
 - Python 3 (for Raspberry Pi scripts)
-- Node.js (for web dashboard)
 - MQTT broker (e.g., Mosquitto)
 
 ## Installation
@@ -49,10 +48,7 @@ This project is an IoT-based monitoring system designed for microalgae cultivati
 ## Folder Structure
 
 ```
-/firmware      # ESP32 source code
-/hardware      # Schematics and wiring diagrams
-/scripts       # Raspberry Pi scripts
-/web-dashboard # Web interface code
+
 ```
 
 ## License
